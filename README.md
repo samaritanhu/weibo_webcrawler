@@ -13,7 +13,7 @@ running the main.py file, the file would run model/fetch_weibo_topic.py automati
 
 There are two ways to implement this code, you can find the detailed reason for each step on my website.
 
-- [package `requests`](https://nobugs.dev/2020/02/10/weibo hottopics crawler/)
+- [package `requests`](https://nobugs.dev/2020/02/10/weibo%20hottopics%20crawler/)
 
 - [package `selenium`]( https://nobugs.dev/2019/07/14/webscrawler/)
 
